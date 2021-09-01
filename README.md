@@ -3,7 +3,7 @@ A collection of computational imaging liteature presented on SIGGRAPH.
 
 ## Author's note
 A good way to master the taste and progress of an area is to read its past high-impact papers. 
-As a high-profile venue, SIGGRAPH has been publishing top-tier computational imaging paper for decades. However, since CI is a realitively minor area in SIGGRAPH, every year there are only very few computational imaging related paper published on SIGGRAPH while the style and structure of computational imaging papers are a little bit different from the rest of SIGGRAPH papers. Hence it is hard to keep track of the past computational papers. The author got inspiration from [Krita]() and many others and create this colection to help the community. The author also thank Ken-sen for sharing the SIGGRAPH collection, which facilites the creation of this lis. 
+As a high-profile venue, SIGGRAPH has been publishing top-tier computational imaging paper for decades. However, as CI is a realitively minor area in SIGGRAPH, every year there are only very few computational imaging related paper published on SIGGRAPH while the style and structure of computational imaging papers are a little bit different from the rest of SIGGRAPH papers. Hence it is hard to keep track of the past computational papers. The author got inspiration from [Krita]() and many others and create this colection to help the community. The author also thank Ken-sen for sharing the SIGGRAPH collection, which facilites the creation of this lis. 
 
 <!-- 
 ## Table of contents
