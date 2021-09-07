@@ -23,8 +23,7 @@ As a high-profile venue, SIGGRAPH has been publishing top-tier computational ima
 |Year|Pub|Paper|Repo|
 |---|---|---|---|
 |2021|SIGGRAPH ASIA|[Neural 3D Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays]()|<details><summary>Enabling 3D modelling of wave propation</summary><p> Enabling 3D modelling of wave propation.
-</p></details><p></p>
-|
+</p></details><p></p>|
 |&nbsp;|&nbsp;|[Polarimetric Spatio-Temporal Light Transport Probing]()|[Dataset]()|
 |&nbsp;|SIGGRAPH|[End-to-End Complex Lens Design with Differentiable Ray Tracing]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Imaging with local speckle intensity correlations: theory and practice]()|[Dataset]()|
