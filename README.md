@@ -23,8 +23,35 @@ As a high-profile venue, SIGGRAPH has been publishing top-tier computational ima
 |&nbsp;|SIGGRAPH|[End-to-End Complex Lens Design with Differentiable Ray Tracing]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Imaging with local speckle intensity correlations: theory and practice]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Differentiable Compound Optics and Processing Pipeline Optimization for End-to-end Camera Design]()|[Dataset]()|
-|2020|SIGGRAPH ASIA|[Neural Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays]()|[Dataset]()|
-|&nbsp;|&nbsp;|[Neural Holography: Learning Accurate Wave Propagation Models for 3D Holographic Virtual and Augmented Reality Displays]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Low-Cost SPAD Sensing for Non-Line-Of-Sight Tracking, Material Classification and Depth Imaging]()|[Dataset]()|
+
+|2020|SIGGRAPH ASIA|[Neural Holography with Camera-in-the-loop Training]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Design and Fabrication of Freeform Holographic Optical Elements]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Learned Hardware-in-the-loop Phase Retrieval for Holographic Near-Eye Displays]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Design and Fabrication of Freeform Holographic Optical Elements]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Rendering Near-Field Speckle Statistics in Scattering Media]()|[Dataset]()|
+|&nbsp;|SIGGRAPH|[Local Fourier Slice Photography]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Quanta Burst Photography]()|[Dataset]()|
+|&nbsp;|&nbsp;|[One Shot 3D Photography]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Non-Line-of-Sight Reconstruction using Efficient Transient Rendering]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Non-Line-of-Sight Reconstruction using Efficient Transient Rendering]()|[Dataset]()|
+|&nbsp;|&nbsp;|[End-to-end Learned, Optically Coded Super-resolution SPAD Camera]()|[Dataset]()|
+
+
+|2019|SIGGRAPH ASIA|[Learning Efficient Illumination Multiplexing for Joint Capture of Reflectance and Shape]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Handheld Mobile Photography in Very Low Light]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Learned Hardware-in-the-loop Phase Retrieval for Holographic Near-Eye Displays]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Accelerating ADMM for efficient simulation and optimization]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Learned Large Field-of-View Imaging With Thin-Plate Optics]()|[Dataset]()|
+|&nbsp;|SIGGRAPH|[Local Fourier Slice Photography]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Synthetic Defocus and Look-Ahead Autofocus for Casual Videography]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Handheld Multi-Frame Super-Resolution]()|[Dataset]()|
+|&nbsp;|&nbsp;|[A Unified Framework for Compression and Compressed Sensing of Light Fields and Light Field Videos]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Coding Optimization for Fast Fluorescence Lifetime Imaging]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Non-line-of-sight Imaging with Partial Occluders and Surface Normals]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Wave-based Non-line-of-sight Imaging using Fast fk-Migration]()|[Dataset]()|
+|&nbsp;|&nbsp;|[Compact Snapshot Hyperspectral Imaging with Diffracted Rotation]()|[Dataset]()|
 
 
 <!-- 
