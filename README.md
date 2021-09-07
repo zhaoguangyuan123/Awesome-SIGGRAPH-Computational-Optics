@@ -24,7 +24,6 @@ As a high-profile venue, SIGGRAPH has been publishing top-tier computational ima
 |&nbsp;|&nbsp;|[Imaging with local speckle intensity correlations: theory and practice]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Differentiable Compound Optics and Processing Pipeline Optimization for End-to-end Camera Design]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Low-Cost SPAD Sensing for Non-Line-Of-Sight Tracking, Material Classification and Depth Imaging]()|[Dataset]()|
-
 |2020|SIGGRAPH ASIA|[Neural Holography with Camera-in-the-loop Training]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Design and Fabrication of Freeform Holographic Optical Elements]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Learned Hardware-in-the-loop Phase Retrieval for Holographic Near-Eye Displays]()|[Dataset]()|
@@ -36,8 +35,6 @@ As a high-profile venue, SIGGRAPH has been publishing top-tier computational ima
 |&nbsp;|&nbsp;|[Non-Line-of-Sight Reconstruction using Efficient Transient Rendering]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Non-Line-of-Sight Reconstruction using Efficient Transient Rendering]()|[Dataset]()|
 |&nbsp;|&nbsp;|[End-to-end Learned, Optically Coded Super-resolution SPAD Camera]()|[Dataset]()|
-
-
 |2019|SIGGRAPH ASIA|[Learning Efficient Illumination Multiplexing for Joint Capture of Reflectance and Shape]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Handheld Mobile Photography in Very Low Light]()|[Dataset]()|
 |&nbsp;|&nbsp;|[Learned Hardware-in-the-loop Phase Retrieval for Holographic Near-Eye Displays]()|[Dataset]()|
