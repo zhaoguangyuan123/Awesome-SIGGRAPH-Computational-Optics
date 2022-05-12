@@ -2,7 +2,7 @@
 A curated list of computational imaging related literature presented on SIGGRAPH.
 
 ## Author's Intention for This Collection
-A good way to master the taste and progress of an area is to read its high-impact papers. 
+> A good way to master the taste and progress of an area is to read its high-impact papers. 
 As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computational imaging papers for decades. However, as computational imaging is a relatively minor and nascent area in SIGGRAPH, every year there are only very few (mostly less than 5) computational imaging papers published on SIGGRAPH while the topic and content of computational imaging related papers are a bit different from the rest of SIGGRAPH papers. As a consequence, it is not easy to keep track of the past computational imaging papers. The author gets inspiration from [Krita](https://github.com/tkuri) and many others who are creating awesome lists and creates this collection to help the community. The author thanks [Ken-sen](https://kesen.realtimerendering.com/) for sharing the SIGGRAPH collection, which facilites the creation of this list. If you have any suggestion for this list, pls do not hesitate to drop an email to the author or make a comment in the issues. 
 
 ## TODO
