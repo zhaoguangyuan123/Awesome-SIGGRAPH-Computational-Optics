@@ -19,7 +19,7 @@ As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computation
 
 ## Terminology of Computational Imaging
 **Computational Imaging** is a rapidly emerging field that co-designs the sensing hardware and the algorithms to indirectly form images from measurements with reconstructions.
-Computational imaging systems enables system designers to overcome some hardware limitations of optics and sensors (resolution, noise etc.). It also has advantages to probe multi-dimensional light field (spectral, depth, polarization etc.). However, there does not exist any universal description for computational imaging right now. Besides the some research papers or talks that can be clearly regarded as computational imaging papers, the author, according to his own taste, also collects some works (such as computational displays) which are not absolute computational imaging but related to the field. 
+Computational imaging systems enables system designers to overcome some hardware limitations of optics and sensors (resolution, noise etc.). It also has advantages to probe multi-dimensional light field (spectral, depth, polarization etc.). There does not exist any universal description for computational imaging right now. Besides some research papers or talks that can be clearly regarded as computational imaging papers, the author, according to his own taste, also collects some works (such as computational displays) which are related to the field. 
 
 
 ## Contents
