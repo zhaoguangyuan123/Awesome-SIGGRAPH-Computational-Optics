@@ -1,14 +1,21 @@
-# Awesome-SIGGRAPH-Computational-Imaging
-A curated list of computational imaging related literature presented on SIGGRAPH.
+# Awesome-SIGGRAPH-Computational-Optics
+A curated list of computational Optics-related papers presented on SIGGRAPH.
+
+**Update in Seq. 23, 2023: We changed the repo title from "Computational Imaging" to "Computational Optics," which covers a broader context. 
+In the author's view, the updated term computational optics includes at least 3 scopes:
+- Computational Imaging (Cameras).
+- Computational Dsiplay.
+- Computational Lithography (Fabrication).
+** 
 
 ## Author's Intention for this Collection
 A good way to master the taste and progress of an area is to read its high-impact papers. 
-As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computational imaging papers for decades. However, as computational imaging is a relatively minor and nascent area in SIGGRAPH, every year there are only very few (mostly less than 10) computational imaging papers published on SIGGRAPH while the topic and content of computational imaging related papers are a bit different from the rest of SIGGRAPH papers. As a consequence, it is not easy to keep track of the past computational imaging papers. 
+As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computational Optics papers for decades. However, as computational imaging is a relatively minor and nascent area in SIGGRAPH, every year, there are only very few (mostly less than 10) computational imaging papers published on SIGGRAPH while the topic and content of computational imaging-related papers are a bit different from the rest of SIGGRAPH papers. Consequently, it is not easy to keep track of past computational Optics papers. 
 
-The author gets inspiration from [Krita](https://github.com/tkuri) and many others who are creating awesome lists and creates this collection to help the community. The author thanks [Ken-sen](https://kesen.realtimerendering.com/) for sharing the SIGGRAPH collection, which facilites the creation of this list. If you have any suggestion for this list, pls do not hesitate to drop an email to the author or make a comment in the issues. 
+The author gets inspiration from [Krita](https://github.com/tkuri) and many others who are creating awesome lists and creating this collection to help the community. The author thanks [Ken-sen](https://kesen.realtimerendering.com/) for sharing the SIGGRAPH collection, which facilitates the creation of this list. If you have any suggestions for this list, pls do not hesitate to drop an email to the author or make a comment on the issues. 
 
 ## TODO
-- [x] Get the alpha version of collection out.
+- [x] Get the alpha version of the collection out.
 - [ ] Track available papers in the past years.  
 - [ ] Finish summaries on papers.  
 <!-- 
@@ -21,12 +28,11 @@ The author gets inspiration from [Krita](https://github.com/tkuri) and many othe
 
 ## Terminology of Computational Imaging
 
-<details><summary>Computational Imaging is ... </summary><p> a rapidly emerging field that co-designs the sensing hardware and the algorithms to indirectly form images from measurements with reconstructions.
-Computational imaging systems enables designers to overcome some hardware limitations of optics and sensors (resolution, noise etc.). It also has advantages to probe multi-dimensional light field (spectral, depth, polarization etc.). 
+<details><summary>Computational Imaging is ... </summary><p> a rapidly emerging field that co-designs the sensing hardware and the algorithms to form images from measurements with indirect reconstructions.
+Computational imaging systems enable designers to overcome some hardware limitations of optics and sensors (resolution, noise, etc.). It also has the advantage of probing multi-dimensional light fields (spectral, depth, polarization, etc.). 
  
 There does not exist any universal description for computational imaging right now. the author, according to his own taste, also collects some work (such as computational displays) which are not absolute imaging work but related to the field. </p></details><p></p>
-<!-- **Computational Imaging** is a rapidly emerging field that co-designs the sensing hardware and the algorithms to indirectly form images from measurements with reconstructions.
-Computational imaging systems enables system designers to overcome some hardware limitations of optics and sensors (resolution, noise etc.). It also has advantages to probe multi-dimensional light field (spectral, depth, polarization etc.). 
+
 
 There does not exist any universal definition for computational imaging right now. The author, according to his own taste, also collects some works (such as computational displays) which are not absolute imaging work but related to the field.  -->
 
