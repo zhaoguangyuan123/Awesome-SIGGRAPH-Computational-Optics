@@ -2,11 +2,11 @@
 A curated list of computational Optics-related papers presented on SIGGRAPH.
 
 **Update in Seq. 23, 2023: We changed the repo title from "Computational Imaging" to "Computational Optics," which covers a broader context. 
-In the author's view, the updated term computational optics includes at least 3 scopes:
+In the author's view, the updated term computational optics includes at least 3 scopes:**
 - Computational Imaging (Cameras).
 - Computational Dsiplay.
 - Computational Lithography (Fabrication).
-** 
+
 
 ## Author's Intention for this Collection
 A good way to master the taste and progress of an area is to read its high-impact papers. 
