@@ -2,17 +2,17 @@
 A curated list of computational Optics-related papers presented on SIGGRAPH.
 
 **Update in Seq. 23, 2023: We changed the repo title from "Computational Imaging" to "Computational Optics," which covers a broader context. 
-In the author's view, the updated term computational optics includes at least 3 scopes:**
+In the author's view, the updated term computational optics includes at least three scopes:**
 - Computational Imaging (Cameras).
-- Computational Dsiplay.
+- Computational Display (Projector).
 - Computational Lithography (Fabrication).
 
 
 ## Author's Intention for this Collection
 A good way to master the taste and progress of an area is to read its high-impact papers. 
-As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computational Optics papers for decades. However, as computational imaging is a relatively minor and nascent area in SIGGRAPH, every year, there are only very few (mostly less than 10) computational imaging papers published on SIGGRAPH while the topic and content of computational imaging-related papers are a bit different from the rest of SIGGRAPH papers. Consequently, it is not easy to keep track of past computational Optics papers. 
+As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computational Optics papers for decades. However, as computational imaging is a relatively minor and nascent area in SIGGRAPH, only very few (mostly less than 10) computational imaging papers are published on SIGGRAPH every year. The topic and content of computational imaging-related papers are a bit different from the rest of SIGGRAPH papers. Consequently, keeping track of past computational Optics papers is not easy. 
 
-The author gets inspiration from [Krita](https://github.com/tkuri) and many others who are creating awesome lists and creating this collection to help the community. The author thanks [Ken-sen](https://kesen.realtimerendering.com/) for sharing the SIGGRAPH collection, which facilitates the creation of this list. If you have any suggestions for this list, pls do not hesitate to drop an email to the author or make a comment on the issues. 
+The author gets inspiration from [Krita](https://github.com/tkuri) and many others who are creating awesome lists and this collection to help the community. The author thanks [Ken-sen](https://kesen.realtimerendering.com/) for sharing the SIGGRAPH collection, which facilitates the creation of this list. If you have any suggestions for this list, please do not hesitate to email the author or comment on the issues. 
 
 ## TODO
 - [x] Get the alpha version of the collection out.
@@ -31,10 +31,10 @@ The author gets inspiration from [Krita](https://github.com/tkuri) and many othe
 <details><summary>Computational Imaging is ... </summary><p> a rapidly emerging field that co-designs the sensing hardware and the algorithms to form images from measurements with indirect reconstructions.
 Computational imaging systems enable designers to overcome some hardware limitations of optics and sensors (resolution, noise, etc.). It also has the advantage of probing multi-dimensional light fields (spectral, depth, polarization, etc.). 
  
-There does not exist any universal description for computational imaging right now. the author, according to his own taste, also collects some work (such as computational displays) which are not absolute imaging work but related to the field. </p></details><p></p>
+There is no universal description for computational imaging right now. According to his taste, the author also collects some work (such as computational displays) which are not absolute imaging work but related to the field. </p></details><p></p>
 
 
-There does not exist any universal definition for computational imaging right now. The author, according to his own taste, also collects some works (such as computational displays) which are not absolute imaging work but related to the field.  -->
+No universal definition for computational imaging exists right now. According to his taste, the author also collects some works (such as computational displays) which are not absolute imaging work but related to the field.  -->
 
 
 ## Contents
