@@ -42,6 +42,7 @@ No universal definition for computational imaging exists right now. According to
 |Year|Venue|Paper(w/ code)|Repo (if any)|Summary(if any)|
 |---|---|---|---|---|
 |2024|SIG|[Zero Grads: Learning Local Surrogate Losses for Non-Differentiable Graphics](https://mfischer-ucl.github.io/zerograds/)|[colab](https://colab.research.google.com/drive/1GNd6DdRGRHQjKyG3rIfJ9519lo9VuAq4?usp=sharing)
+|2024|SIG|[Deep Hybrid Camera Deblurring for Smartphone Cameras](https://cg.postech.ac.kr/research/HCDeblur/)|[code](https://github.com/rimchang/HCDeblur)
 |2023|SIG|[Self-Calibrating, Fully Differentiable NLOS Inverse Rendering](http://vclab.kaist.ac.kr/siggraphasia2023/nlospaper23-7.pdf)|[code](https://github.com/KAIST-VCLAB/nlos-inverse-rendering)
 |2022|SIG|[NeAT: Neural Adaptive Tomography](https://vccimaging.org/Publications/Ruckert2022NeAT/)|&nbsp;||&nbsp;||
 |&nbsp;|&nbsp;|[Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography](http://vclab.kaist.ac.kr/siggraph2022p1/index.html)|[code](https://github.com/KAIST-VCLAB/SparseEllipsometry)||
