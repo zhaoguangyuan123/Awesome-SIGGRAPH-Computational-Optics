@@ -43,6 +43,9 @@ No universal definition for computational imaging exists right now. According to
 |---|---|---|---|---|
 |2024|SIG|[Zero Grads: Learning Local Surrogate Losses for Non-Differentiable Graphics](https://mfischer-ucl.github.io/zerograds/)|[colab](https://colab.research.google.com/drive/1GNd6DdRGRHQjKyG3rIfJ9519lo9VuAq4?usp=sharing)
 |2024|SIG|[Deep Hybrid Camera Deblurring for Smartphone Cameras](https://cg.postech.ac.kr/research/HCDeblur/)|[code](https://github.com/rimchang/HCDeblur)
+|2024|SIG|[Spin-Weighted Spherical Harmonics for Polarized Light Transport](http://vclab.kaist.ac.kr/publications.html)|
+|2024|SIG|[A Free-Space Diffraction BSDF](https://ssteinberg.xyz/2024/04/05/free_space_diffractions_bsdf/)|
+|2024|SIG|[Target-Aware Image Denoising for Inverse Monte Carlo Rendering](https://cglab.gist.ac.kr/sig24target/)|
 |2023|SIG|[Self-Calibrating, Fully Differentiable NLOS Inverse Rendering](http://vclab.kaist.ac.kr/siggraphasia2023/nlospaper23-7.pdf)|[code](https://github.com/KAIST-VCLAB/nlos-inverse-rendering)
 |2022|SIG|[NeAT: Neural Adaptive Tomography](https://vccimaging.org/Publications/Ruckert2022NeAT/)|&nbsp;||&nbsp;||
 |&nbsp;|&nbsp;|[Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography](http://vclab.kaist.ac.kr/siggraph2022p1/index.html)|[code](https://github.com/KAIST-VCLAB/SparseEllipsometry)||
