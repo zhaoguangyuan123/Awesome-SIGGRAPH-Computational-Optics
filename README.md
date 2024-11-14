@@ -41,11 +41,14 @@ No universal definition for computational imaging exists right now. According to
 <!-- ## Illumination Estimation (DL) -->
 |Year|Venue|Paper(w/ code)|Repo (if any)|Summary(if any)|
 |---|---|---|---|---|
+|2024|SIGA|[AR-DAVID: Augmented Reality Display Artifact Video Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/ardavid/)
 |2024|SIG|[Zero Grads: Learning Local Surrogate Losses for Non-Differentiable Graphics](https://mfischer-ucl.github.io/zerograds/)|[colab](https://colab.research.google.com/drive/1GNd6DdRGRHQjKyG3rIfJ9519lo9VuAq4?usp=sharing)
 |&nbsp;|&nbsp;|[Deep Hybrid Camera Deblurring for Smartphone Cameras](https://cg.postech.ac.kr/research/HCDeblur/)|[code](https://github.com/rimchang/HCDeblur)
 |&nbsp;|&nbsp;|[Spin-Weighted Spherical Harmonics for Polarized Light Transport](http://vclab.kaist.ac.kr/publications.html)|
 |&nbsp;|&nbsp;|[A Free-Space Diffraction BSDF](https://ssteinberg.xyz/2024/04/05/free_space_diffractions_bsdf/)|
 |&nbsp;|&nbsp;|[Target-Aware Image Denoising for Inverse Monte Carlo Rendering](https://cglab.gist.ac.kr/sig24target/)|
+|&nbsp;|&nbsp;|[Target-Aware Image Denoising for Inverse Monte Carlo Rendering](https://imjal.github.io/theory-of-tetrachromacy/)|
+|&nbsp;|&nbsp;|[Holographic Parallax Improves 3D Perceptual Realism](https://www.computationalimaging.org/publications/holographic-parallax/)
 |2023|SIG|[Self-Calibrating, Fully Differentiable NLOS Inverse Rendering](http://vclab.kaist.ac.kr/siggraphasia2023/nlospaper23-7.pdf)|[code](https://github.com/KAIST-VCLAB/nlos-inverse-rendering)
 |2022|SIG|[NeAT: Neural Adaptive Tomography](https://vccimaging.org/Publications/Ruckert2022NeAT/)|&nbsp;||&nbsp;||
 |&nbsp;|&nbsp;|[Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape with Unstructured Flash Photography](http://vclab.kaist.ac.kr/siggraph2022p1/index.html)|[code](https://github.com/KAIST-VCLAB/SparseEllipsometry)||
