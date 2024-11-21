@@ -1,8 +1,16 @@
 # Awesome-SIGGRAPH-Computational-Optics
 
-A curated list of Computational Optics papers from SIGGRAPH conferences.
+A curated list that tracks Computational Optics papers from SIGGRAPH(NA/Asia) conferences.
 
 > Note: In Sep 2023, we changed the repo title from "Computational Imaging" to "Computational Optics" to better reflect the broader scope.
+
+## Purpose
+
+SIGGRAPH has been publishing cutting-edge Computational Optics papers for decades. However, as it's a relatively niche area within SIGGRAPH (typically <10 papers/year), tracking these papers can be challenging. This curated list aims to:
+
+1. Help researchers stay up-to-date with developments in the field;
+2. Provide an entry point for those new to Computational Optics;
+3. Highlight key papers and their contributions.
 
 ## Overview
 
@@ -16,13 +24,6 @@ Computational Optics encompasses three main areas:
 
 This collection also includes related papers that don't strictly fit these categories but are relevant to computational optics (e.g., **differentiable rendering**).
 
-## Purpose
-
-SIGGRAPH has been publishing cutting-edge Computational Optics papers for decades. However, as it's a relatively niche area within SIGGRAPH (typically <10 papers/year), tracking these papers can be challenging. This curated list aims to:
-
-1. Help researchers stay up-to-date with developments in the field
-2. Provide an entry point for those new to Computational Optics
-3. Highlight key papers and their contributions
 
 ## Papers
 
