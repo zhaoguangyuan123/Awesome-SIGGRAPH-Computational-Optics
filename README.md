@@ -1,44 +1,31 @@
 # Awesome-SIGGRAPH-Computational-Optics
-A curated list of computational Optics-related papers presented on SIGGRAPH.
 
-**Update in Seq. 23, 2023: We changed the repo title from "Computational Imaging" to "Computational Optics," which covers a broader context. 
-In the author's view, the updated term computational optics includes at least three scopes:**
-- Computational Imaging (Cameras).
-- Computational Display (Projector).
-- Computational Lithography (Fabrication).
+A curated list of Computational Optics papers from SIGGRAPH conferences.
 
+> Note: In Sep 2023, we changed the repo title from "Computational Imaging" to "Computational Optics" to better reflect the broader scope.
 
-## Author's Intention for this Collection
-A good way to master the taste and progress of an area is to read its high-impact papers. 
-As a high-profile venue, SIGGRAPH(ASIA) has been publishing top-tier computational Optics papers for decades. However, as computational imaging is a relatively minor and nascent area in SIGGRAPH, only very few (mostly less than 10) computational imaging papers are published on SIGGRAPH every year. The topic and content of computational imaging-related papers are a bit different from the rest of SIGGRAPH papers. Consequently, keeping track of past computational Optics papers is not easy. 
+## Overview
 
-The author gets inspiration from [Krita](https://github.com/tkuri) and many others who are creating awesome lists and this collection to help the community. The author thanks [Ken-sen](https://kesen.realtimerendering.com/) for sharing the SIGGRAPH collection, which facilitates the creation of this list. If you have any suggestions for this list, please do not hesitate to email the author or comment on the issues. 
+Computational Optics encompasses three main areas:
 
-## TODO
-- [x] Get the alpha version of the collection out.
-- [ ] Track available papers in the past years.  
-- [ ] Finish summaries on papers.  
-<!-- 
-## Table of contents
-- [Illumination Estimation (DL)](#illumination-estimation-dl)
-- [Intrinsic Decomposition (non-DL)](#intrinsic-decomposition-non-dl)
-- [Intrinsic Decomposition (DL)](#intrinsic-decomposition-dl)
-- [code](#code)
- -->
+- **Computational Imaging** - Camera-based techniques
+- **Computational Display** - Projector/display-based techniques  
+- **Computational Lithography** - Fabrication-based techniques
 
-## Terminology of Computational Imaging
+![Computational Optics Overview](asserts/computational_optics.png)
 
-<details><summary>Computational Imaging is ... </summary><p> a rapidly emerging field that co-designs the sensing hardware and the algorithms to form images from measurements with indirect reconstructions.
-Computational imaging systems enable designers to overcome some hardware limitations of optics and sensors (resolution, noise, etc.). It also has the advantage of probing multi-dimensional light fields (spectral, depth, polarization, etc.). 
- 
-There is no universal description for computational imaging right now. According to his taste, the author also collects some work (such as computational displays) which are not absolute imaging work but related to the field. </p></details><p></p>
+This collection also includes related papers that don't strictly fit these categories but are relevant to computational optics (e.g., **differentiable rendering**).
 
+## Purpose
 
-No universal definition for computational imaging exists right now. According to his taste, the author also collects some works (such as computational displays) which are not absolute imaging work but related to the field.  -->
+SIGGRAPH has been publishing cutting-edge Computational Optics papers for decades. However, as it's a relatively niche area within SIGGRAPH (typically <10 papers/year), tracking these papers can be challenging. This curated list aims to:
 
+1. Help researchers stay up-to-date with developments in the field
+2. Provide an entry point for those new to Computational Optics
+3. Highlight key papers and their contributions
 
-## Contents
-<!-- ## Illumination Estimation (DL) -->
+## Papers
+
 |Year|Venue|Paper(w/ code)|Repo (if any)|Summary(if any)|
 |---|---|---|---|---|
 |2024|SIGA|[AR-DAVID: Augmented Reality Display Artifact Video Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/ardavid/)
@@ -137,8 +124,20 @@ No universal definition for computational imaging exists right now. According to
 |&nbsp;|&nbsp;|[Layered Light-Field Reconstruction for Defocus Blur](https://www.intel.com/content/www/us/en/developer/overview.html#gs.8snifj)||
 
 
+[Previous years' entries continue in same format...]
 
-<!-- 
+## Contributing
 
-|2017|SIGGRAPH ASIA|[Learning to Predict Indoor Illumination from a Single Image](https://arxiv.org/abs/1704.00090)|[code](http://indoor.hdrdb.com/)|
-|2018|3DV|[Learning to Estimate Indoor Lighting from 3D Objects](https://arxiv.org/abs/1806.03994)|[Code & code] -->
+If you have suggestions for this list, please:
+- Open an issue
+- Submit a pull request
+- Email the maintainer
+
+## TODO
+- [x] Initial collection of papers
+- [ ] Complete paper tracking for past years
+- [ ] Add paper summaries
+
+## Resources
+- [Ken-sen SIGGRAPH Papers Database](https://kesen.realtimerendering.com/)
+- [Github TOC Sidebar Extension](https://github.com/reorx/github-toc-sidebar) (Recommended for browsing)
