@@ -32,6 +32,7 @@ This collection also includes related papers that don't strictly fit these categ
 |2024|SIGA|[AR-DAVID: Augmented Reality Display Artifact Video Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/ardavid/)|&nbsp;|`📺 display`||
 |||[Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation](https://bchao1.github.io/holo_dfm/)|&nbsp;|`📺 display`||
 |||[Inverse Rendering for Tomographic Volumetric Additive Manufacturing](https://dl.acm.org/doi/10.1145/3687924)|[code](https://github.com/rgl-epfl/drtvam.git)|`🔨 lithography`;`🔄 differentiable rendering`||
+|||[Embodied Visions: Interactive Installations That Reimagine Bodily Presence in Digital Imaging Apparatuses as Shadows](https://dl.acm.org/doi/pdf/10.1145/3680530.3695436)|&nbsp;|`📺 display`; `📷 imaging` ||
 |||[A Generalized Ray Formulation For Wave-Optics Rendering](https://ssteinberg.xyz/2023/03/27/rtplt/)|[code](https://github.com/ssteinberg/PLTFalcor)|`🔄 differentiable rendering`||
 |||[End-to-End Hybrid Refractive-Diffractive Lens Design with Differentiable Ray-Wave Model](https://arxiv.org/abs/2406.00834)|&nbsp;|`📷 imaging`||
 |||[A Plenoptic 3D Vision System](https://akasha-imaging.github.io/plenoptic-vision/static/pdfs/paper.pdf)|&nbsp;|`📷 imaging`||
