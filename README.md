@@ -37,6 +37,7 @@ This collection also includes related papers that don't strictly fit these categ
 |||[A Plenoptic 3D Vision System](https://akasha-imaging.github.io/plenoptic-vision/static/pdfs/paper.pdf)|&nbsp;|`📷 imaging`||
 |||[Reconstructing Translucent Thin Objects from Photos](https://research.nvidia.com/publication/2024-11_reconstructing-translucent-thin-objects-photos)|&nbsp;|`📷 imaging`||
 |||[From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization](https://openimaginglab.github.io/Sim2Real/)|[code](https://github.com/openimaginglab/Sim2Real)|`📷 imaging`||
+|||[Perspective-Aligned AR Mirror with Under-Display Camera](https://jianwang-cmu.github.io/24ARmirror/main.pdf)|&nbsp;|`📷 imaging`||
 |||[End-to-end Optimization of Fluidic Lenses](https://computationalsciences.org/publications/na-2024-fluidic-lenses.html)|&nbsp;|`📷 imaging`||
 |||[Learned Multi-aperture Color-coded Optics for Snapshot Hyperspectral Imaging](https://light.princeton.edu/publication/array-hsi/)|&nbsp;|`📷 imaging`||
 |2024|SIG|[Zero Grads: Learning Local Surrogate Losses for Non-Differentiable Graphics](https://mfischer-ucl.github.io/zerograds/)|[colab](https://colab.research.google.com/drive/1GNd6DdRGRHQjKyG3rIfJ9519lo9VuAq4?usp=sharing)|`🔄 differentiable rendering`||
@@ -167,7 +168,7 @@ This collection also includes related papers that don't strictly fit these categ
 
 ## Contributing
 
-If you have suggestions for this list, please do one of the following:
+Tracking all the related papers in the past years is a hard job as we can miss some related papers. If you find some papers are missed or have suggestions for this list, please do one of the following:
 - Open an issue;
 - Submit a pull request;
 - Email the maintainer.
