@@ -44,6 +44,7 @@ This collection also includes related papers that don't strictly fit these categ
 |||[Perspective-Aligned AR Mirror with Under-Display Camera](https://jianwang-cmu.github.io/24ARmirror/main.pdf)|&nbsp;|`📷 imaging`||
 |||[End-to-end Optimization of Fluidic Lenses](https://computationalsciences.org/publications/na-2024-fluidic-lenses.html)|&nbsp;|`📷 imaging`||
 |||[Learned Multi-aperture Color-coded Optics for Snapshot Hyperspectral Imaging](https://light.princeton.edu/publication/array-hsi/)|&nbsp;|`📷 imaging`||
+|||[DARTS: Diffusion Approximated Residual Time Sampling for Time-of-flight Rendering in Homogeneous Scattering Media](https://dl.acm.org/doi/abs/10.1145/3687930)|&nbsp;|`📷 imaging`||
 |2024|SIG|[Zero Grads: Learning Local Surrogate Losses for Non-Differentiable Graphics](https://mfischer-ucl.github.io/zerograds/)|[colab](https://colab.research.google.com/drive/1GNd6DdRGRHQjKyG3rIfJ9519lo9VuAq4?usp=sharing)|`🔄 differentiable rendering`||
 |||[Deep Hybrid Camera Deblurring for Smartphone Cameras](https://cg.postech.ac.kr/research/HCDeblur/)|[code](https://github.com/rimchang/HCDeblur)|`📷 imaging`||
 |||[NeuralTO: Neural Reconstruction and View Synthesis of Translucent Objects](https://dl.acm.org/doi/10.1145/3658186)|&nbsp;|`📷 imaging`||
