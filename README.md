@@ -2,8 +2,7 @@
 
 A curated list that tracks Computational Optics papers from SIGGRAPH(NA/Asia) conferences.
 
-> ⚠️ **Note**  
-> This list is hard to be comprehensive. Tracking all the related papers in the past years is a hard job as we can miss some related papers. If you know of a paper that should be added, please open an issue or submit a pull request or contact us via email.
+> Note: In Sep 2023, we changed the repo title from "Computational Imaging" to "Computational Optics" to better reflect the broader scope.
 
 ## Purpose
 
@@ -12,6 +11,9 @@ SIGGRAPH has been publishing cutting-edge Computational Optics papers for decade
 1. Help researchers stay up-to-date with developments in the field;
 2. Provide an entry point for those new or curious about Computational Optics;
 3. Highlight key papers and their contributions.
+
+> ⚠️ **Note**  
+> This list is hard to be comprehensive. Tracking all the related papers in the past years is a hard job as we can miss some related papers. If you know of a paper that should be added, please open an issue or submit a pull request or contact us via email.
 
 ## Overview
 
@@ -65,7 +67,7 @@ This collection also includes related papers that don't strictly fit these categ
 |||[Light-Efficient Holographic Illumination for Continuous-Wave Time-of-Flight Imaging](https://dl.acm.org/doi/10.1145/3610548.3618152)|&nbsp;|`📷 imaging`||
 |||[Self-Calibrating, Fully Differentiable NLOS Inverse Rendering](http://vclab.kaist.ac.kr/siggraphasia2023/nlospaper23-7.pdf)|[code](https://github.com/KAIST-VCLAB/nlos-inverse-rendering)|`📷 imaging`||
 |||[Neural Spectro-polarimetric Fields](https://arxiv.org/abs/2306.12562)|&nbsp;|`📷 imaging`||
-|||[Doppler Time-of-Flight Rendering](https://juhyeonkim95.github.io/project-pages/dopplertof/)|[code](https://github.com/juhyeonkim95/dopplertof)|`📷 imaging`||
+|||[Doppler Time-of-Flight Rendering](https://juhyeonkim95.github.io/project-pages/dopplertof/)|[code](https://github.com/juhyeonkim95/dopplertof)|`��� imaging`||
 |2023|SIG|[Computational Long Exposure Mobile Photography](https://motion-mode.github.io/)|&nbsp;|`📷 imaging`||
 |||[The Statistics of Eye Movements and Binocular Disparities in VR Gaming Headsets Should Drive Headset Design](https://dl.acm.org/doi/10.1145/3610548.3618153)|&nbsp;|`📺 display`||
 |||[Etendue Expansion in Holographic Near Eye Displays Through Sparse Eye-box Generation Using Lens Array Eyepiece](https://dl.acm.org/doi/10.1145/3592441)|&nbsp;|`📺 display`||
