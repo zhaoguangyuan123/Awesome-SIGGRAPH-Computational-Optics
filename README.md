@@ -30,6 +30,7 @@ This collection also includes related papers that don't strictly fit these categ
 |Year|Venue|Paper(w/ code)|Repo (if any)|Labels|Summary(if any)|
 |---|---|---|---|---|---|
 |2024|SIGA|[AR-DAVID: Augmented Reality Display Artifact Video Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/ardavid/)|&nbsp;|`📺 display`||
+|||[TCSF: A Temporal Contrast Sensitivity Function for Flicker Detection and Modeling Variable Refresh Rate Flicker](https://arxiv.org/abs/2409.15588)|[code](https://github.com/gfxdisp/elaTCSF)|`📺 display`||
 |||[Neural Light Spheres for Implicit Image Stitching and View Synthesis](https://light.princeton.edu/publication/neuls/)|[code](https://github.com/princeton-computational-imaging/NeuLS)|`📷 imaging`||
 |||[Polarimetric BSSRDF Acquisition of Dynamic Faces](https://dl.acm.org/doi/10.1145/3687767)|&nbsp;|`📷 imaging`||
 |||[Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation](https://bchao1.github.io/holo_dfm/)|&nbsp;|`📺 display`||
