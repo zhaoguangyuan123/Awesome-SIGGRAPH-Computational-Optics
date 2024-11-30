@@ -2,7 +2,8 @@
 
 A curated list that tracks Computational Optics papers from SIGGRAPH(NA/Asia) conferences.
 
-> Note: In Sep 2023, we changed the repo title from "Computational Imaging" to "Computational Optics" to better reflect the broader scope.
+> ⚠️ **Note**  
+> This list is hard to be comprehensive. Tracking all the related papers in the past years is a hard job as we can miss some related papers. If you know of a paper that should be added, please open an issue or submit a pull request or contact us via email.
 
 ## Purpose
 
@@ -172,12 +173,6 @@ This collection also includes related papers that don't strictly fit these categ
 
 [Previous years' entries continue in same format...]
 
-## Contributing
-
-Tracking all the related papers in the past years is a hard job as we can miss some related papers. If you find some papers are missed or have suggestions for this list, please do one of the following:
-- Open an issue;
-- Submit a pull request;
-- Email the maintainer.
 
 ## TODO
 - [x] Initial collection of papers
