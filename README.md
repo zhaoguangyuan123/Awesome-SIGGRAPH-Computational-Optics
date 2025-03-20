@@ -63,7 +63,7 @@ This collection also includes related papers that don't strictly fit these categ
 |||[Simultaneous Color Computer Generated Holography](https://arxiv.org/abs/2303.11287)|&nbsp;|`📺 display`||
 |||[High-quality Color-animated CGH Using a Motor-driven Photomask](https://dl.acm.org/doi/10.1145/3610543.3626182)|&nbsp;|`📺 display`||
 |||[The Effect of Display Capabilities on the Gloss Consistency Between Real and Virtual Objects](https://stereohdrgloss.mpi-inf.mpg.de/)|&nbsp;|`📺 display`||
-|||[Multi-color Holograms Improve Brightness in Holographic Displays](https://arxiv.org/abs/2303.11287)|&nbsp;|`📺 display`||
+|||[Multi-color Holograms Improve Brightness in Holographic Displays](https://dl.acm.org/doi/10.1145/3610548.3618135)|&nbsp;|`📺 display`||
 |||[Light-Efficient Holographic Illumination for Continuous-Wave Time-of-Flight Imaging](https://dl.acm.org/doi/10.1145/3610548.3618152)|&nbsp;|`📷 imaging`||
 |||[Self-Calibrating, Fully Differentiable NLOS Inverse Rendering](http://vclab.kaist.ac.kr/siggraphasia2023/nlospaper23-7.pdf)|[code](https://github.com/KAIST-VCLAB/nlos-inverse-rendering)|`📷 imaging`||
 |||[Neural Spectro-polarimetric Fields](https://arxiv.org/abs/2306.12562)|&nbsp;|`📷 imaging`||
