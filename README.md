@@ -32,6 +32,15 @@ This collection also includes related papers that don't strictly fit these categ
 
 |Year|Venue|Paper(w/ code)|Repo (if any)|Labels|Summary(if any)|
 |---|---|---|---|---|---|
+|2025|SIG|[Light Pipe Holographic Display: Bandwidth-preserved Kaleidoscopic Guiding for AR Glasses](https://dl.acm.org/doi/10.1145/3731429)|&nbsp;|`📺 display`||
+|||[HoloChrome: Polychromatic Illumination for Speckle Reduction in Holographic Near-Eye Displays](https://dl.acm.org/doi/full/10.1145/3732935)|&nbsp;|`📺 display`||
+|||[Collaborative On-Sensor Array Cameras](https://arxiv.org/pdf/2506.04061)|&nbsp;|`📷 imaging`||
+|||[Gaussian Wave Splatting for Computer-generated Holography](https://bchao1.github.io/gaussian-wave-splatting/)|&nbsp;|`📺 display`||
+|||[A Monte Carlo Rendering Framework for Simulating Optical Heterodyne Detection](https://juhyeonkim95.github.io/project-pages/ohd_rendering/)|&nbsp;|`📷 imaging`||
+|||[Noise-Coded Illumination for Forensic and Photometric Video Analysis](https://dl.acm.org/doi/10.1145/3742892)|&nbsp;|`📷 imaging`|||
+|||[Towards Understanding Depth Perception in Foveated Rendering](https://dl.acm.org/doi/10.1145/3721238.3730609)|&nbsp;|`📺 display`|||
+|||[End-to-end Surface Optimization for Light Control](https://dl.acm.org/doi/10.1145/3732284)|&nbsp;|`📷 imaging`|||
+|---|---|---|---|---|---|
 |2024|SIGA|[AR-DAVID: Augmented Reality Display Artifact Video Dataset](https://www.cl.cam.ac.uk/research/rainbow/projects/ardavid/)|&nbsp;|`📺 display`||
 |||[TCSF: A Temporal Contrast Sensitivity Function for Flicker Detection and Modeling Variable Refresh Rate Flicker](https://arxiv.org/abs/2409.15588)|[code](https://github.com/gfxdisp/elaTCSF)|`📺 display`||
 |||[Neural Light Spheres for Implicit Image Stitching and View Synthesis](https://light.princeton.edu/publication/neuls/)|[code](https://github.com/princeton-computational-imaging/NeuLS)|`📷 imaging`||
