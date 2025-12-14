@@ -21,7 +21,7 @@ Computational Optics encompasses three main areas:
 
 - 📷 **Computational Imaging** - Camera-based techniques
 - 📺 **Computational Display** - Projector/display-based techniques  
-- 🔨 **Computational Lithography** - Fabrication-based techniques
+- 🔨 **Computational Manufacturing** - Fabrication-based techniques
 
 ![Computational Optics Overview](asserts/computational_optics.png)
 
@@ -32,6 +32,7 @@ This collection also includes related papers that don't strictly fit these categ
 
 |Year|Venue|Paper(w/ code)|Repo (if any)|Labels|Summary(if any)|
 |---|---|---|---|---|---|
+|2025|SIGA|[Automated Design Of Compound Lenses With Discrete-Continuous Optimization](https://imaging.cs.cmu.edu/automated_lens_design/)|[code](https://github.com/ArjunTeh/automated_lens_design)|`🔨 Manufacturing`||
 |2025|SIG|[Light Pipe Holographic Display: Bandwidth-preserved Kaleidoscopic Guiding for AR Glasses](https://dl.acm.org/doi/10.1145/3731429)|&nbsp;|`📺 display`||
 |||[HoloChrome: Polychromatic Illumination for Speckle Reduction in Holographic Near-Eye Displays](https://dl.acm.org/doi/full/10.1145/3732935)|&nbsp;|`📺 display`||
 |||[Collaborative On-Sensor Array Cameras](https://arxiv.org/pdf/2506.04061)|&nbsp;|`📷 imaging`||
