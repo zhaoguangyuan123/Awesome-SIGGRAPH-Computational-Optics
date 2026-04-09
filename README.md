@@ -32,7 +32,13 @@ This collection also includes related papers that don't strictly fit these categ
 
 |Year|Venue|Paper(w/ code)|Repo (if any)|Labels|Summary(if any)|
 |---|---|---|---|---|---|
-|2025|SIGA|[Automated Design Of Compound Lenses With Discrete-Continuous Optimization](https://imaging.cs.cmu.edu/automated_lens_design/)|[code](https://github.com/ArjunTeh/automated_lens_design)|`🔨 Manufacturing`||
+|2025|SIGA|[Automated Design Of Compound Lenses With Discrete-Continuous Optimization](https://imaging.cs.cmu.edu/automated_lens_design/)|[code](https://github.com/ArjunTeh/automated_lens_design)|`📷 imaging`||
+|||[Artifact-Resilient Real-Time Holography](https://light.princeton.edu/publication/artifact-resilient-holography/)|[code](https://github.com/princeton-computational-imaging/ArtifactResilientHolography)|`📺 display`||
+|||[Designing and Fabricating Color BRDFs with Differentiable Wave Optics](https://dl.acm.org/doi/10.1145/3763275)|&nbsp;|`🔨 lithography`||
+|||[MODepth: Benchmarking Mobile Multi-frame Monocular Depth Estimation with Optical Image Stabilization](https://dl.acm.org/doi/10.1145/3757377.3763991)|&nbsp;|`📷 imaging`||
+|||[Fovea Stacking: Imaging with Dynamic Localized Aberration Correction](https://dl.acm.org/doi/10.1145/3763278)|&nbsp;|`📷 imaging`||
+|||[LookUp3D: Data-Driven 3D Scanning](https://arxiv.org/abs/2405.14882)|&nbsp;|`📷 imaging`||
+|||[Large-Area Fabrication-Aware Computational Diffractive Optics](https://princeton-computational-imaging.github.io/FabricationAwareDiffractiveOptics/)|[code](https://github.com/Vandermode/LAFA)|`🔨 lithography`||
 |2025|SIG|[Light Pipe Holographic Display: Bandwidth-preserved Kaleidoscopic Guiding for AR Glasses](https://dl.acm.org/doi/10.1145/3731429)|&nbsp;|`📺 display`||
 |||[HoloChrome: Polychromatic Illumination for Speckle Reduction in Holographic Near-Eye Displays](https://dl.acm.org/doi/full/10.1145/3732935)|&nbsp;|`📺 display`||
 |||[Collaborative On-Sensor Array Cameras](https://arxiv.org/pdf/2506.04061)|&nbsp;|`📷 imaging`||
