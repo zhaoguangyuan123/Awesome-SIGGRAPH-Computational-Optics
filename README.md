@@ -31,6 +31,24 @@ This collection also includes related papers that don't strictly fit these categ
 ## Papers
 
 |Year|Venue|Paper(w/ code)|Repo (if any)|Labels|Summary(if any)|
+|2026|SIG|[Invisible Holographic Window: Full-color 3D Image Reconstruction from Transparent Surface-relief Computer-generated Holograms]|&nbsp;|`📺 display`||
+|||[PAColorHolo: A Perceptually-Aware Color Management Framework for Holographic Displays](https://dl.acm.org/doi/10.1145/3789511)|&nbsp;|`📺 display`||
+|||[Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://felixwechsler.science/pages/publications/SHVAM/)|&nbsp;|`🔨 Additive Manufacturing`||
+|||[HoloPathTracer: Fast and Accurate Wave Path Tracing for Holography](https://zhou-wb.github.io/holopathtracer/)|&nbsp;|`📺 display`||
+|||[Complex-Valued Holographic Radiance Fields](https://complightlab.com/publications/complex_valued_holographic_radiance_fields/)|[code](https://github.com/complight/Complex_Valued_Holographic_Radiance_Fields)|`📺 display`||
+|||[CoherentRaster: Efficient 3D Gaussian Splatting for Light Field Displays](https://arxiv.org/abs/2605.04509)|&nbsp;|`📺 display`||
+|||[Guidestar-Free Adaptive Optics with Asymmetric Apertures](https://weiyunjiang.com/guidestar-free-ao/)|[code](https://github.com/WeiyunJiang/guidestar-free-ao)|`📷 imaging`||
+|||[MAROON: A Dataset for the Joint Characterization of Near-Field High-Resolution Radio-Frequency and Optical Depth Imaging Techniques](https://vwirth.github.io/maroon)|[code](https://github.com/vwirth/maroon)|`📷 imaging`||
+|||[Non-line-of-sight imaging with arbitrary relay surface geometries via 3D Gaussian Transient Rendering]|&nbsp;|`📷 imaging`||
+|||[Broadband Hyperspectral 3D Imaging using Dispersed Structured Light](https://arxiv.org/pdf/2605.25757)|&nbsp;|`📷 imaging`||
+|||[GenPIE: A Time-Resolved Plenoptic Imager](https://wangzh1.github.io/GenPIE/)|[code](https://github.com/wangzh1/GenPIE)|`📷 imaging`||
+|||[Policy-based Foveated Imaging and Perception](https://howardxiao.ca/foveated/)|&nbsp;|`📷 imaging`||
+|||[Hi-SPAD: Video-Rate Hyperspectral Imaging and Inference with Single-Photon Cameras]|&nbsp;|`📷 imaging`||
+|||[Quantifying reality of ultra-realistic 3-D displays - the effect of resolution and contrast](https://www.cl.cam.ac.uk/research/rainbow/projects/quantifying_reality/)|&nbsp;|`📺 display`||
+|||[Generalized Aberrations for Processing-Aware Optical Design](https://princeton-computational-imaging.github.io/GeneralizedAberrations/)|&nbsp;|`📷 imaging`||
+
+
+
 |---|---|---|---|---|---|
 |2025|SIGA|[Automated Design Of Compound Lenses With Discrete-Continuous Optimization](https://imaging.cs.cmu.edu/automated_lens_design/)|[code](https://github.com/ArjunTeh/automated_lens_design)|`📷 imaging`||
 |||[Artifact-Resilient Real-Time Holography](https://light.princeton.edu/publication/artifact-resilient-holography/)|[code](https://github.com/princeton-computational-imaging/ArtifactResilientHolography)|`📺 display`||
