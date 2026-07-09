@@ -44,7 +44,7 @@ This collection also includes related papers that don't strictly fit these categ
 |||[Broadband Hyperspectral 3D Imaging using Dispersed Structured Light](https://arxiv.org/pdf/2605.25757)|&nbsp;|`📷 imaging`||
 |||[GenPIE: A Time-Resolved Plenoptic Imager](https://wangzh1.github.io/GenPIE/)|[code](https://github.com/wangzh1/GenPIE)|`📷 imaging`||
 |||[Policy-based Foveated Imaging and Perception](https://howardxiao.ca/foveated/)|&nbsp;|`📷 imaging`||
-|||[Hi-SPAD: Video-Rate Hyperspectral Imaging and Inference with Single-Photon Cameras]|&nbsp;|`📷 imaging`||
+|||Hi-SPAD: Video-Rate Hyperspectral Imaging and Inference with Single-Photon Cameras|&nbsp;|`📷 imaging`||
 |||[Quantifying reality of ultra-realistic 3-D displays - the effect of resolution and contrast](https://www.cl.cam.ac.uk/research/rainbow/projects/quantifying_reality/)|&nbsp;|`📺 display`||
 |||[Generalized Aberrations for Processing-Aware Optical Design](https://princeton-computational-imaging.github.io/GeneralizedAberrations/)|&nbsp;|`📷 imaging`||
 |---|---|---|---|---|---|
