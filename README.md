@@ -34,7 +34,7 @@ This collection also includes related papers that don't strictly fit these categ
 |---|---|---|---|---|---|
 |2026|SIG|Invisible Holographic Window: Full-color 3D Image Reconstruction from Transparent Surface-relief Computer-generated Holograms|&nbsp;|`📺 display`||
 |||[PAColorHolo: A Perceptually-Aware Color Management Framework for Holographic Displays](https://dl.acm.org/doi/10.1145/3789511)|&nbsp;|`📺 display`||
-|||[Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://felixwechsler.science/pages/publications/SHVAM/)|&nbsp;|`🔨 Additive Manufacturing`||
+|||[Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://felixwechsler.science/pages/publications/SHVAM/)|[code](https://github.com/EPFL-LAPD/SHVAM)|`🔨 Additive Manufacturing`||
 |||[HoloPathTracer: Fast and Accurate Wave Path Tracing for Holography](https://zhou-wb.github.io/holopathtracer/)|&nbsp;|`📺 display`||
 |||[Complex-Valued Holographic Radiance Fields](https://complightlab.com/publications/complex_valued_holographic_radiance_fields/)|[code](https://github.com/complight/Complex_Valued_Holographic_Radiance_Fields)|`📺 display`||
 |||[CoherentRaster: Efficient 3D Gaussian Splatting for Light Field Displays](https://arxiv.org/abs/2605.04509)|&nbsp;|`📺 display`||
